@@ -3,10 +3,10 @@
 ## :innocent: Purpose
 The purpose of this project is to develop a system that can detect and track objects from a drone. This system can be used for a variety of purposes, such as:
 
--> Surveillance: The system can be used to monitor a specific area for objects of interest. For example, the system could be used to monitor a construction site for unauthorized personnel.
--> Search and rescue: The system can be used to search for missing persons or objects. For example, the system could be used to search for survivors of a natural disaster.
--> Delivery: The system can be used to deliver objects to specific locations. For example, the system could be used to deliver medical supplies to a remote location.
--> Mapping: The system can be used to map an area and identify objects of interest. For example, the system could be used to map a forest for endangered species.
+- Surveillance: The system can be used to monitor a specific area for objects of interest. For example, the system could be used to monitor a construction site for unauthorized personnel.
+- Search and rescue: The system can be used to search for missing persons or objects. For example, the system could be used to search for survivors of a natural disaster.
+- Delivery: The system can be used to deliver objects to specific locations. For example, the system could be used to deliver medical supplies to a remote location.
+- Mapping: The system can be used to map an area and identify objects of interest. For example, the system could be used to map a forest for endangered species.
 
 ## PPT and Project Report free support provided ...
 If interested, contact me at suryachoudhuri03@gmail.com
