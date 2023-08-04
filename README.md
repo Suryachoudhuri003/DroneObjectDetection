@@ -1,4 +1,4 @@
-# Drone-Object Detection 🛰🕹️
+# 🛰 Drone-Object Detection 🕹️📡
 
 ## :innocent: Purpose
 The purpose of this project is to develop a system that can detect and track objects from a drone. This system can be used for a variety of purposes, such as:
