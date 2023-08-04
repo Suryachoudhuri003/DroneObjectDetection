@@ -1,4 +1,4 @@
-# Drone-Object Detection
+# Drone-Object Detection 🛰🕹️
 
 ## :innocent: Purpose
 The purpose of this project is to develop a system that can detect and track objects from a drone. This system can be used for a variety of purposes, such as:
@@ -39,7 +39,7 @@ The project has the following features:
 The project uses the COCO dataset for object detection. The COCO dataset is a large dataset of images that have been labeled with object annotations. This dataset is used to train the computer vision algorithm.
 
 ## :key: Prerequisites
-All the dependencies and required libraries are included in the file <code>requirements.txt</code> [See here](https://github.com/Suryachoudhuri003/CARDI.A.I.D-CArdiaXpertBot/blob/main/requirements.txt)
+All the dependencies and required libraries are included in the file <code>requirements.txt</code> [See here](https://github.com/Suryachoudhuri003/DroneObjectDetection/blob/main/requirements.txt)
 
 - Put the following command :
 ```
