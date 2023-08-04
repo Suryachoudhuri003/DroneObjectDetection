@@ -41,8 +41,13 @@ The project uses the COCO dataset for object detection. The COCO dataset is a la
 ## :key: Prerequisites
 All the dependencies and required libraries are included in the file <code>requirements.txt</code> [See here](https://github.com/Suryachoudhuri003/CARDI.A.I.D-CArdiaXpertBot/blob/main/requirements.txt)
 
+- Put the following command :
+```
+$ pip install -r requirements.txt
+```
+
 ## :heart: Owner
 Made by [Surya Choudhuri](https://github.com/Suryachoudhuri003)
 
 ## :eyes: License
-MIT © [Surya Choudhuri](https://github.com/Suryachoudhuri003/CARDI.A.I.D-CArdiaXpertBot/blob/main/LICENSE)
+GNU General Public License © [Surya Choudhuri](https://github.com/Suryachoudhuri003/DroneObjectDetection/blob/main/LICENSE)
