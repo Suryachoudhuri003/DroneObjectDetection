@@ -1,5 +1,6 @@
-# 🛰 Drone-Object Detection 🕹️📡
-
+<h1 align="center"> 🛰 Drone-Object Detection 🕹️📡 </h1>
+<div align= "center"><img src="https://github.com/Suryachoudhuri003/DroneObjectDetection/blob/main/Default_Drone_Object_Detection_software_detecting_object_in_e_0.jpg" width="600" height="500"/>
+</div>
 ## :innocent: Purpose
 The purpose of this project is to develop a system that can detect and track objects from a drone. This system can be used for a variety of purposes, such as:
 
